@@ -4,5 +4,5 @@
 
 My [newsletter](https://dougirrazabal.substack.com/) with my projects<br>
 
-- ⚙️ I use daily: `.js` `.ts` `.tsx`
+- ⚙️ I use daily: `.js` `.ts` `.java`
 - 🌍 Find me on <a rel="me" href="https://www.linkedin.com/in/douglasirrazabal">LinkedIn</a>
