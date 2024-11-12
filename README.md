@@ -1,8 +1,7 @@
 ### Hey, I'm Douglas! 👋
 
-#### A Full-Stack Developer by day, learner and writer by night.
+#### Software Engineer by Day, Lifelong Learner by Night.
 
-All the [docs](https://github.com/dougirrazabal/docs) of my projects<br>
-
-- ⚙️ I use daily: `.js` `.py` `.md`
+- 📘 Explore my [Digital Commonplace Book](https://github.com/dougirrazabal/docs): a collection of my favorite notes, references, and resources.
+- ⚙️ I use daily: `.tsx` `.py` `.md`
 - 🌍 Find me on <a rel="me" href="https://www.linkedin.com/in/douglasirrazabal">LinkedIn</a>
